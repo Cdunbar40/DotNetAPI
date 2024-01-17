@@ -1,0 +1,3 @@
+This project was created to practice API development using C#/.Net, Dapper, Automapper, Azure Data Studio for the DB, and Swagger for testing. The program establishes web api endpoints that allow the addition and removal of users, and their job and salary information. It also includes enpoints for registering and authenticating a user, allowing them to create and edit posts. 
+
+The SQL Seed folder includes a program that can be run out of VS Code to seed a database and test the project. 
